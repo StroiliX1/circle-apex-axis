@@ -1,0 +1,13 @@
+project: "Circle Apex Axis"
+artist: "Edward Dane Pritchard"
+archive_version: "1.0.0"
+base_uri: "https://github.com/StroiliX1/circle-apex-axis/artifacts/"
+artifacts:
+  - id: "CAA-HG-0325-932-EDP"
+    path: "artifacts/CAA-HG-0325-932-EDP"
+    anchor: "9:32"
+    status: "Active"
+    tags:
+      - "Copper"
+      - "Memory"
+      - "Post-Industrial"
