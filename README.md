@@ -1,2 +1,13 @@
-# circle-apex-axis
-Metadata System  Artist: Edward Dane Pritchard Project Circle Apex Axis Catalog ID: CAA-HG-0325-932EDP Type Studio Album A sonic artifact built from environmental memory, metallic resonance, identity fragmentation, and sacred ecological decay. The work is structured as a four-part field sequence mapping consciousness through material signal states.
+## Audio
+
+### Listen on:
+- [Spotify](https://spotify.link/yourtrack)
+- [Apple Music](https://music.apple.com/album/yourtrack)  
+
+### Metadata
+- **Artist:** Your Artist Name  
+- **Album:** Your Album Name  
+- **Release Date:** 2026-03-31  
+- **Genre:** Your Genre  
+- **Label:** Your Label Name  
+- **Duration:** Your Track Duration  
