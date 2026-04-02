@@ -124,5 +124,60 @@ This section defines the individual digital objects within the release.
  * Physical Media Reference: Record Store Day Exclusive, 33 ⅓ RPM, Commemorative Colors Edition.
  * Encoding Standard: Mixed-rate high-fidelity lossless (WAV/AIFF).
  * Geographic Origin: Made in the U.S.A.
- * Validation: Metadata verified against ISRC registry CAA2025ATM.
-Would you like me to generate a formal License Agreement or a "Proof of Authenticity" document based on this certificate?
+ * Validation: Metadata verified against ISRC registry ---
+title: "Digital Asset Certificate — Ashes Teach The Morning"
+certificate_id: "CERT-CAA-ATM-2025-001"
+artist: "Circle Apex Axis"
+album: "Ashes Teach The Morning"
+version: "1.0"
+generated: "2026-04-02"
+---
+
+# Digital Asset Certificate Summary
+
+## Overview
+- Certificate ID: CERT-CAA-ATM-2025-001
+- Issuing Authority: Circle Apex Axis / Atlantic Records (Archival)
+- Timestamp: 2025-04-24T19:30:00Z
+- Version: V1.0
+
+## Album Details
+- Title: Ashes Teach The Morning
+- Artist: Circle Apex Axis
+- UPC: 0897654320011
+- Catalog Number: CAA-ATM-E001
+- Genre: Ambient / Experimental Electronic
+- Release Date: April 24, 2025
+- Copyright: © 2025 Circle Apex Axis. All rights reserved.
+- Manifesto: A cyclical passage through light, shadow, and renewal, where tonal architecture mirrors the turning of inner and outer worlds.
+
+## Track Manifest
+
+### Track 01
+- Title: Ashes Teach The Morning
+- ISRC: CAA2025ATM01
+- File Type: AIFF
+- Mood Profile: Ritual, Renewal, Emergence
+
+## Technical Notes
+- Physical Media: Record Store Day Exclusive, 33⅓ RPM, Commemorative Colors Edition
+- Encoding Standard: Mixed-rate high-fidelity lossless (WAV/AIFF)
+- Geographic Origin: Made in the U.S.A.
+- Validation: Metadata verified against ISRC registry CAA2025ATM
+
+---
+
+# Full XML Certificate
+
+```xml
+<?xml version="1.0" encoding="UTF-8"?>
+<DigitalAssetCertificate id="CERT-CAA-ATM-2025-001">
+  <Header>
+    <Timestamp>2025-04-24T19:30:00Z</Timestamp>
+    <Authority>Circle Apex Axis / antica Records (Archival)</Authority>
+    <Version>V1.0</Version>
+  </Header>
+  <AlbumDetails>
+    <Title>Ashes Teach The Morning
+
+
