@@ -3,20 +3,20 @@
 ### Listen on:
 - [Spotify](https://spotify.link/yourtrack)
 - [Apple Music](https://music.apple.com/album/yourtrack)  
-
+http://distrokid.com/hyperfollow/circleapexaxis/ashes-teach-the-morning/
 ### Metadata
 - **Artist:** circle Apex axis  
 - **Album:** ashes teach the morning 
 - **Release Date:** 2026-03-31  
 - **Genre:** alternative avant rock  
-- **Label:** Your Label Name  
+- **Label:** Antica records  
 - **Duration:** timeless 
 <?xml version="1.0" encoding="UTF-8"?>
 <DigitalAssetCertificate version="1.0">
   <CertificateMetadata>
     <CertificateID>CERT-CAA-ATM-2025-001</CertificateID>
     <Timestamp>2025-04-24T19:30:00Z</Timestamp>
-    <Authority>Circle Apex Axis /   intercorpus Records Archival</Authority>
+    <Authority>Circle Apex Axis /   intercorpus  Archival</Authority>
     <ValidityStamp>2025</ValidityStamp>
   </CertificateMetadata>
 
